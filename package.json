@@ -1,0 +1,22 @@
+{
+  "name": "grandmaplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv_to_json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saboshi69/grandmaplay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saboshi69/grandmaplay/issues"
+  },
+  "homepage": "https://github.com/saboshi69/grandmaplay#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
